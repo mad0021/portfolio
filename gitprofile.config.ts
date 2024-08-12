@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic',
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 21, // How many projects to display.
         exclude: {
           forks: false,
           projects: [],
